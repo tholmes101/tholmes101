@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, I'm Terence. 👋
 
-<!--
-**tholmes101/tholmes101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a front end developer, organic gardener, and music lover.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently new trends in technology.
+- 🌱 I’m currently learning how to collaborate with new people to connect to.
+- 👯 Goals: Create amazing web appications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+**List of Zoo Animals** - [Github](https://github.com/tholmes101/phase-1-js-project) | [Demo](https://www.loom.com/share/8a99ee5076574b0787037ad48ba85784)
+- Single page application to perform fetch requests on pictures of zoo animals
+
+NBA Teams - Github | Demo
+- Single page application with a search form to access NBA teams
+
+Employee App - Github | Demo
+- Full stack web application that has a user login or signup request to access an employee database.
+
+
+
