@@ -14,7 +14,7 @@
 **NBA Teams** - [Github](https://github.com/tholmes101/phase-2-project) | [Demo](https://vimeo.com/792799011/e489c82b34)
 - Single page application with a search form to access NBA teams
 
-**Employee App** - [Github](https://github.com/tholmes101/terence-holmes-phase-5-capstone-project) | [Demo](https://vimeo.com/777681646/8d075afcbb)
+**Employee App** - [Github](https://github.com/tholmes101/terence-holmes-phase-5-capstone-project) | [Demo](https://vimeo.com/868927176/c8220eec2f?share=copy)
 - Full stack web application that has a user login or signup request to access an employee database.
           
 
